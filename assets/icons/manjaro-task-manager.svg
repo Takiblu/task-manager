@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35b37e"/>
+      <stop offset="1" stop-color="#1f8c5c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background, Manjaro-inspired green, not the official mark -->
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#bgGrad)"/>
+
+  <!-- Three vertical bars motif (nods to Manjaro's tri-bar wordmark style
+       without reproducing the actual logo/asset) -->
+  <rect x="24" y="30" width="16" height="68" rx="4" fill="#ffffff" opacity="0.95"/>
+  <rect x="50" y="30" width="16" height="68" rx="4" fill="#ffffff" opacity="0.75"/>
+  <rect x="76" y="30" width="16" height="68" rx="4" fill="#ffffff" opacity="0.55"/>
+
+  <!-- Small activity dot to suggest "monitoring / live" -->
+  <circle cx="98" cy="26" r="7" fill="#ffffff"/>
+</svg>

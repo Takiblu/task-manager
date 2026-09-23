@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Manjaro Task Manager
+Comment=Monitor and manage processes, services, and system resources
+Exec=manjaro-task-manager %U
+Icon=manjaro-task-manager
+Terminal=false
+Categories=System;Monitor;Utility;
+Keywords=task;process;monitor;system;performance;services;
+StartupNotify=true

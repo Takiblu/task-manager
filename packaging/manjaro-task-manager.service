@@ -1,0 +1,13 @@
+[Unit]
+Description=Manjaro Task Manager (autostart)
+After=graphical-session.target
+PartOf=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/manjaro-task-manager --minimized
+Restart=no
+Slice=app.slice
+
+[Install]
+WantedBy=graphical-session.target
