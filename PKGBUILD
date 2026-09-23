@@ -4,7 +4,7 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="A modern, Manjaro-inspired Task Manager for Arch Linux and Arch-based distributions"
 arch=('any')
-url="https://github.com/Takiblu"
+url="https://github.com/Takiblu/task-manager"
 license=('GPL3')
 depends=(
     'python'

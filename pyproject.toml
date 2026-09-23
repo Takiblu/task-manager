@@ -25,8 +25,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Takiblu"
-Issues = "https://github.com/Takiblu/issues"
+Homepage = "https://github.com/Takiblu/task-manager"
+Issues = "https://github.com/Takiblu/task-manager/issues"
 
 [project.scripts]
 manjaro-task-manager = "src.main:main"

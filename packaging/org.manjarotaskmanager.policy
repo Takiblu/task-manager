@@ -5,7 +5,7 @@
 <policyconfig>
 
   <vendor>Manjaro Task Manager</vendor>
-  <vendor_url>https://github.com/Takiblu</vendor_url>
+  <vendor_url>https://github.com/Takiblu/task-manager</vendor_url>
   <icon_name>manjaro-task-manager</icon_name>
 
   <!--

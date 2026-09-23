@@ -37,7 +37,11 @@ assets.
 
 ## Screenshots
 
-*(placeholder — add screenshots of Overview, Processes, and Performance here)*
+![Overview](https://i.postimg.cc/W3YSbrp1/Screenshot-20260923-215132.png)
+
+![Processes](https://i.postimg.cc/yYZnskMy/Screenshot-20260923-215151.png)
+
+![Performance](https://i.postimg.cc/Hn70Yhhs/Screenshot-20260923-215158.png)
 
 ---
 

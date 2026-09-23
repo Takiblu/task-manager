@@ -6,7 +6,7 @@ from PySide6.QtWidgets import QDialog, QLabel, QVBoxLayout
 
 APP_VERSION = "1.0.0"
 APP_LICENSE = "GPL-3.0-or-later"
-APP_GITHUB_URL = "https://github.com/Takiblu"
+APP_GITHUB_URL = "https://github.com/Takiblu/task-manager"
 APP_AUTHOR = "Taki"
 
 
