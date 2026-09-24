@@ -48,6 +48,7 @@ assets.
 ## Installation (Arch Linux / Arch-based)
 
 ```bash
+https://github.com/Takiblu/task-manager.git
 cd manjaro-task-manager
 makepkg -si
 ```
